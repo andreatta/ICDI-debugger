@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\develop\USB_JTAG_Debugger\debugger.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=debugger-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=debugger-nonplated.txt|LayerPairs=gtl,gbl

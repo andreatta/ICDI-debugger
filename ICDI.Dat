@@ -1,0 +1,28 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~264|Field=Footprint~String~Footprint~100|Field=Price (CHF)~String~Price (CHF)~100|Field=Quantity~Integer~Quantity~100|Field=Supplier~String~Supplier~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~ICDI.PrjPCB|ReportField=ProjectFullPath~D:\develop\USB_JTAG_Debugger\ICDI.PrjPCB|ReportField=Title~Bill of Materials For Project [ICDI.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~54|ReportField=ReportTime~11:53:39|ReportField=ReportDate~29.06.2010|ReportField=ReportDateTime~29.06.2010 11:53:39|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~Burgunderstrasse 15|ReportField=Address2~CH-4512 Bellach|ReportField=Address3~Switzerland|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~Graph-Tech AG|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~29.06.2010|ReportField=CurrentTime~11:49:06|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\develop\USB_JTAG_Debugger\debugger.SchDoc|ReportField=DocumentName~debugger.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~29.06.2010|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.71|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=268|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1|ReportField=ProjectName~ICDI.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~1|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~ICDI.PrjPCB|ReportField=DataSourceFullPath~D:\develop\USB_JTAG_Debugger\ICDI.PrjPCB
+CAT93C46VI-G|1K, 64xEEPROM, 1K, 64X16, MICROWIRE, SOIC8|U5|SOIC-SN8_N|0.551|1|Farnell
+0481900001|USB On-The-Go (OTG) Mini-B Receptacle, Right Angle, SMT, 0.80mm (.031") Pitch, Solder Tabs with Back Cover, Recessed Type|J1|481900001|2.14|1|Compona
+100nF|Capacitor|C1, C2, C3, C4, C5, C6, C7, C8, C9, C12|0603||10|
+10uF|Capacitor|C14|1210||1|
+20pF|Capacitor|C11, C15|0603||2|
+22uF|Capacitor|C13|1210||1|
+FT2232D R|Dual USB UART/FIFO Chip, LQFP-48|U4|LQFP-48_N|7.6|1|DigiKey
+Header 10X2|Header, 10-Pin, Dual row|P1|HDR2X10||1|
+120ohm @ 100MHz|Inductor|L1, L2|0603||2|
+LED3|Typical BLUE SiC LED|D1, D2|0805_L|0.97|2|Farnell
+LM1117IMP-ADJ|800mA Low-Dropout Linear Regulator|U6|MP04A_N|1.95|1|Farnell
+MHDR2X4|Header, 4-Pin, Dual row|P3|MHDR2X4||1|
+MHDR2X5|Header, 5-Pin, Dual row|P2|MHDR2X5|1.45|1|Farnell
+10|Resistor|R3|0603||1|
+10k|Resistor|R1, R5, R6, R9, R10, R11, R12, R16, R17, R18, R24|0603||11|
+1k5|Resistor|R15|0603||1|
+27|Resistor|R2, R4, R7|0603||3|
+27E|Resistor|R13, R14|0603||2|
+2k21|Resistor|R20|0603||1|
+2k7|Resistor|R21|0603||1|
+330|Resistor|R19, R23|0603||2|
+3k9|Resistor|R22|0603||1|
+475|Resistor|R8|0603||1|
+SN74LS126AN|Quadruple Bus Buffer with 3-State Outputs|U3|PW014_N|0.7|1|Farnell
+SN74LVC125PWLE|Quadruple Bus Buffer Gate with 3-State Outputs|U1, U2|PW014_N|0.82|2|Farnell
+SW-PB|Switch|S1|PUSHBTN||1|
+XTAL|Crystal Oscillator|Y1|xtal|1.30|1|Compona

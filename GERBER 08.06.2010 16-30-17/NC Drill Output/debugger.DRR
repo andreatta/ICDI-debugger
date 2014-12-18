@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: debugger.PcbDoc   08.06.2010  16:30:19
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : debugger-Plated.TXT
+ASCII Non-Plated RoundHoles File : debugger-NonPlated.TXT
+EIA File   : debugger.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        8mil (0.2032mm)          Round          80               9.33 Inch (236.95 mm)
+T2        23.6mil (0.59944mm)      Round          18               1.17 Inch (29.62 mm)
+T3        35.4mil (0.89916mm)      Round          20               2.30 Inch (58.42 mm)
+T4        35.4mil (0.89916mm)      Round          2         NPTH   0.17 Inch (4.40 mm)
+T5        98.4mil (2.49936mm)      Round          1         NPTH   0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            121              12.97 Inch (329.39 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
